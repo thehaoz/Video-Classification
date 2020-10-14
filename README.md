@@ -1,6 +1,4 @@
 # Video-Classification
 
-Video action recognition using Pytorch
+Video action recognition using Pytorch. Using data from HMDB51 
 
-
-### Markdown
