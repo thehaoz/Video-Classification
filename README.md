@@ -9,4 +9,7 @@ This project works on action recognition using deep learning framework. Will be 
 ## Utilities Folder
 Contains `Video_utils.py`. 
 
+```
+preprocess_videos(root_dir, folder, dataset_name = "hmdb51")
 
+```
