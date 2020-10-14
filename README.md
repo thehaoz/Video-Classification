@@ -7,9 +7,8 @@ This project works on action recognition using deep learning framework. Will be 
 ---
 
 ## Utilities Folder
-Contains `Video_utils.py`. 
+Contains `Video_utils.py` that is used to process video frames into its individual frames
 
-```
-preprocess_videos(root_dir, folder, dataset_name = "hmdb51")
 
-```
+`preprocess_videos(root_dir, folder, dataset_name = "hmdb51")` splits the video into N frames (default 16 frames), stored in individual class folder
+
