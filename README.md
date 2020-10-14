@@ -11,8 +11,10 @@ Contains `Video_utils.py` that is used to process video frames into its individu
 
 
 `preprocess_videos(root_dir, folder, dataset_name = "hmdb51")` 
+** Description **
+Creates a new folder `hmdb51` in the root directory with `train`, `val` and `test` datasets. Video is split into 16 frames and stored in its corresponding class.
 
-Creates a new folder `hmdb51` in the root directory with `train`, `val` and `test` datasets. Video is being split into 16 frames and stored in its corresponding class
+
 
 
 ```
