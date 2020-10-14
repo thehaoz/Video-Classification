@@ -19,7 +19,9 @@ Creates a new folder `hmdb51` in the root directory with `train`, `val` and `tes
 **Parameters**
 
 `root_dir` root directory of the videos and stored data
+
 `folder` target folder containing the videos 
+
 `dataset_name` name of directory to save the frames
 
 
